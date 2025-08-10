@@ -1,0 +1,31 @@
+bookid,title,authorid,genre,publishedyear,quantity
+1,To Kill a Mockingbird,101,Fiction,1960,4
+2,1984,102,Dystopian,1949,6
+3,Pride and Prejudice,103,Romance,1813,3
+4,The Great Gatsby,104,Fiction,1925,5
+5,Moby Dick,105,Adventure,1851,2
+6,War and Peace,106,Historical,1869,4
+7,The Catcher in the Rye,107,Fiction,1951,7
+8,Brave New World,108,Dystopian,1932,3
+9,The Hobbit,109,Fantasy,1937,8
+10,Crime and Punishment,110,Psychological,1866,5
+11,Anna Karenina,106,Romance,1877,4
+12,Wuthering Heights,111,Romance,1847,6
+13,Jane Eyre,112,Romance,1847,5
+14,The Odyssey,113,Epic,-800,3
+15,Les Misérables,114,Historical,1862,4
+16,The Iliad,113,Epic,-750,3
+17,The Lord of the Rings,109,Fantasy,1954,6
+18,Harry Potter and the Sorcerer's Stone,115,Fantasy,1997,10
+19,Harry Potter and the Chamber of Secrets,115,Fantasy,1998,9
+20,Harry Potter and the Prisoner of Azkaban,115,Fantasy,1999,8
+21,The Da Vinci Code,116,Thriller,2003,7
+22,Angels & Demons,116,Thriller,2000,6
+23,Inferno,116,Thriller,2013,5
+24,Digital Fortress,116,Thriller,1998,4
+25,Deception Point,116,Thriller,2001,3
+26,The Alchemist,117,Adventure,1988,9
+27,Veronika Decides to Die,117,Drama,1998,3
+28,Eleven Minutes,117,Drama,2003,4
+29,Brida,117,Drama,1990,2
+30,By the River Piedra I Sat Down and Wept,117,Drama,1994,3
